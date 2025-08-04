@@ -1,3 +1,5 @@
 Pretendo conseguir saber usar o github
 
 Eu aprendi que trabalho em equipe valoriza muito nossos conhecimentos
+git config --global user.name 
+git config --global user.email
